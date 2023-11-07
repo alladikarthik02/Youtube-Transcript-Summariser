@@ -14,7 +14,7 @@ The YouTube Transcript Summarizer Chrome Extension is a powerful tool designed t
 
 - **Interactive User Interface**: The extension provides an intuitive interface that allows you to view the transcript and summary in real-time.
 
-- **Export and Share**: You can easily export the summary in your preferred format or share it with others.
+- **Share**: You can easily export the summary in your preferred format or share it with others.
 
 ## How to Use
 
@@ -40,13 +40,16 @@ The YouTube Transcript Summarizer Chrome Extension is a powerful tool designed t
 - **Shareable**: Easily share your summarized content with your friends, colleagues, or followers.
 
 
-## Roadmap
+## My Future Plans
 
-Our team is committed to continuously improving the YouTube Transcript Summarizer Chrome Extension. Some of the features on our roadmap include:
+As the creator and user of the YouTube Transcript Summarizer Chrome Extension, I have exciting plans for its future development and improvement. Here are some of the features and enhancements I'm looking forward to implementing:
 
-- Support for additional video platforms.
-- Enhanced language selection for transcription and summarization.
-- Enhanced sharing and collaboration features.
+- **Enhanced Language Support**: I plan to expand language selection options for transcription and summarization, making the extension even more accessible to a global audience.
+
+- **User Customization**: I aim to provide users with the ability to customize the summarization process, tailoring it to their specific needs and preferences.
+
+- **Advanced Collaboration**: In the future, I envision adding collaborative features that will allow users to easily share and collaborate on video summaries with others, making it a valuable tool for teams and communities.
+
 
 ## Feedback and Support
 
