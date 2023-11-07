@@ -1,1 +1,1 @@
-console.log("RUnning");
+console.log("Content Script Running");
