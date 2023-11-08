@@ -26,7 +26,6 @@ The YouTube Transcript Summarizer Chrome Extension is a powerful tool designed t
 
 4. Explore the summarized content and make any necessary edits.
 
-
 ## Benefits
 
 - **Time-Saving**: Quickly get the gist of video content without watching the entire video.
@@ -39,7 +38,6 @@ The YouTube Transcript Summarizer Chrome Extension is a powerful tool designed t
 
 - **Shareable**: Easily share your summarized content with your friends, colleagues, or followers.
 
-
 ## My Future Plans
 
 As the creator and user of the YouTube Transcript Summarizer Chrome Extension, I have exciting plans for its future development and improvement. Here are some of the features and enhancements I'm looking forward to implementing:
@@ -50,12 +48,9 @@ As the creator and user of the YouTube Transcript Summarizer Chrome Extension, I
 
 - **Advanced Collaboration**: In the future, I envision adding collaborative features that will allow users to easily share and collaborate on video summaries with others, making it a valuable tool for teams and communities.
 
-
 ## Feedback and Support
 
 If you have any feedback, encounter issues, or need support, please open an [issue](https://github.com/alladikarthik02/youtube-summarizer/issues) on our GitHub repository.
-
-
 
 ---
 
