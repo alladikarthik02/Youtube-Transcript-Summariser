@@ -20,11 +20,19 @@ The YouTube Transcript Summarizer Chrome Extension is a powerful tool designed t
 
 1. Install the YouTube Transcript Summarizer Chrome Extension.
 
-2. While watching a YouTube video, click on the extension icon in your Chrome toolbar.
+   - Load the unpacked project: To get started, download the extension project files and follow these steps:
+     - Open your Chrome browser.
+     - Go to `chrome://extensions/`.
+     - Enable Developer mode.
+     - Click on "Load unpacked" and select the project folder.
+   
+2. Run the Flask server by executing `python app.py`.
 
-3. The extension will give you three options to provide a real-time summary.
+3. While watching a YouTube video, click on the extension icon in your Chrome toolbar.
 
-4. Explore the summarized content and make any necessary edits.
+4. The extension will give you three options to provide a real-time summary.
+
+5. Explore the summarized content and make any necessary edits.
 
 ## Benefits
 
@@ -50,7 +58,9 @@ As the creator and user of the YouTube Transcript Summarizer Chrome Extension, I
 
 ## Feedback and Support
 
-If you have any feedback, encounter issues, or need support, please open an [issue](https://github.com/alladikarthik02/youtube-summarizer/issues) on our GitHub repository.
+If you have any feedback, encounter issues, or need support, please feel free to reach out to us via email:
+
+- For inquiries and support, you can submit your queries to [alladikarthik02@gmail.com](mailto:alladikarthik02@gmail.com) and [harikagummadi18012003@gmail.com](mailto:harikagummadi18012003@gmail.com). We are here to assist you with any questions or concerns.
 
 ---
 
