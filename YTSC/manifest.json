@@ -1,7 +1,7 @@
 { 
     "manifest_version":3,
     "name": "YTSummarize",
-    "description": "An extension to provide summarized transcript of a YouTube subtitle eligible video.",
+    "description": "An extension that generates a summarized transcript for YouTube videos with subtitles.",
     "version": "1.0",
     "permissions": ["activeTab","tabs"],
     "action": {
